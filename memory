@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <title>Memory</title>
+    <link rel="stylesheet" href="memory.css">
+</head>
+<body>
+    <header>
+        <div>
+            <h1><a href="login.html">로그인</a></h1>
+            <ul>
+                <li><h2><a href="Memory project.html">Memory</a></h2></li>
+                <li class="list"><h3><a href="travel.html">여행</a></h3></li>
+                <li class="list"><h3><a href="day.html">일상</a></h3></li>
+                <li class="list"><h3><a href="date.html">달력</a></h3></li>
+            </ul>
+        </div>
+    </header>
+    <main>
+        <div>
+            <form>
+                
+            </form>
+        </div>
+    </main>
+</body>
+</html>
